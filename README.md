@@ -5,4 +5,5 @@ https://f1ch.itch.io/goose-game
 Or if you install Processing here:
 https://processing.org/download
 
-Then copy the file and paste it into processing.
+> Copy the file.
+> Paste into processing. 
