@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Goose Game
+Comment=Processing 4 Game
+Exec=sh -c 'cd "$(dirname "%k")" && ./GooseGame'
+Icon=icon
+Terminal=false
+Type=Application
+Categories=Game;
