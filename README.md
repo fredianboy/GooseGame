@@ -1,5 +1,5 @@
-For Linux users:
-prerequisite: Java 17 installed
+For Linux users: <br>
+prerequisite: Java 17 installed <br>
 install step: none (just unzip)
 run step: double-click GooseGame.desktop
 internal: launcher script runs Java app
